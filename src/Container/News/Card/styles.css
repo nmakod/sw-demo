@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.card .image {
+  width: 100%;
+}
+
+.card .author {
+  margin-left: auto;
+}
+
+.card .title {
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+}
